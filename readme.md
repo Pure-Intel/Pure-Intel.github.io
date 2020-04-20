@@ -1,10 +1,4 @@
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
-	  <div align="center">
+<div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
@@ -55,38 +49,36 @@
 </p>
 <br>
 
-<div>
-	<h2>Contents</h2>
+## Contents
 
-<p>- [Platforms]</p>
-<p>- [Programming Languages]</p>
-<p>- [Front-End Development]</p>
-<p>- [Back-End Development]</p>
-<p>- [Computer Science]<p/>
-<p>- [Big Data]</p>
-<p>- [Theory]</p>
-<p>- [Books]</p>
-<p>- [Editors]</p>
-<p>- [Gaming]</p>
-<p>- [Development Environment]</p>
-<p>- [Entertainment]</p>
-<p>- [Databases]/<p>
-<p>- [Media]</p>
-<p>- [Learn]</p>
-<p>- [Security]</p>
-<p>- [Content Management Systems]</p>
-<p>- [Hardware](#hardware)
-<p>- [Business](#business)
-<p>- [Work](#work)
-<p>- [Networking](#networking)
-<p>- [Decentralized Systems](#decentralized-systems)
-<p>- [Higher Education](#higher-education)
-<p>- [Events](#events)
-<p>- [Testing](#testing)
-<p>- [Miscellaneous](#miscellaneous)
-<p>- [Related](#related)
-</p>
-</div>
+- [Platforms](#platforms)
+- [Programming Languages](#programming-languages)
+- [Front-End Development](#front-end-development)
+- [Back-End Development](#back-end-development)
+- [Computer Science](#computer-science)
+- [Big Data](#big-data)
+- [Theory](#theory)
+- [Books](#books)
+- [Editors](#editors)
+- [Gaming](#gaming)
+- [Development Environment](#development-environment)
+- [Entertainment](#entertainment)
+- [Databases](#databases)
+- [Media](#media)
+- [Learn](#learn)
+- [Security](#security)
+- [Content Management Systems](#content-management-systems)
+- [Hardware](#hardware)
+- [Business](#business)
+- [Work](#work)
+- [Networking](#networking)
+- [Decentralized Systems](#decentralized-systems)
+- [Higher Education](#higher-education)
+- [Events](#events)
+- [Testing](#testing)
+- [Miscellaneous](#miscellaneous)
+- [Related](#related)
+
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
@@ -708,3 +700,4 @@
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+
