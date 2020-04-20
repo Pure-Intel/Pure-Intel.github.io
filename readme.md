@@ -58,33 +58,33 @@
 <div>
 	<h2>Contents</h2>
 
-<p>- [Platforms](#platforms)</p>
-<p>- [Programming Languages](#programming-languages)</p>
-<p>- [Front-End Development](#front-end-development)</p>
-<p>- [Back-End Development](#back-end-development)</p>
-<p>- [Computer Science](#computer-science)<p/>
-<p>- [Big Data](#big-data)</p>
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Higher Education](#higher-education)
-- [Events](#events)
-- [Testing](#testing)
-- [Miscellaneous](#miscellaneous)
-- [Related](#related)
+<p>- [Platforms]</p>
+<p>- [Programming Languages]</p>
+<p>- [Front-End Development]</p>
+<p>- [Back-End Development]</p>
+<p>- [Computer Science]<p/>
+<p>- [Big Data]</p>
+<p>- [Theory]</p>
+<p>- [Books]</p>
+<p>- [Editors]</p>
+<p>- [Gaming]</p>
+<p>- [Development Environment]</p>
+<p>- [Entertainment]</p>
+<p>- [Databases]/<p>
+<p>- [Media]</p>
+<p>- [Learn]</p>
+<p>- [Security]</p>
+<p>- [Content Management Systems]</p>
+<p>- [Hardware](#hardware)
+<p>- [Business](#business)
+<p>- [Work](#work)
+<p>- [Networking](#networking)
+<p>- [Decentralized Systems](#decentralized-systems)
+<p>- [Higher Education](#higher-education)
+<p>- [Events](#events)
+<p>- [Testing](#testing)
+<p>- [Miscellaneous](#miscellaneous)
+<p>- [Related](#related)
 </p>
 </div>
 ## Platforms
