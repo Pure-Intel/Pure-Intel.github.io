@@ -55,16 +55,15 @@
 </p>
 <br>
 
-<div style="background-color:lightblue">
-<p>
-## Contents
+<div>
+	<h2>Contents</h2>
 
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
+<p>- [Platforms](#platforms)</p>
+<p>- [Programming Languages](#programming-languages)</p>
+<p>- [Front-End Development](#front-end-development)</p>
+<p>- [Back-End Development](#back-end-development)</p>
+<p>- [Computer Science](#computer-science)<p/>
+<p>- [Big Data](#big-data)</p>
 - [Theory](#theory)
 - [Books](#books)
 - [Editors](#editors)
