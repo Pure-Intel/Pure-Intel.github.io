@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-  <head>
+  </head>
 	  <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
