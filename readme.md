@@ -45,7 +45,7 @@
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://Pure-Intel.github.io/"><code>Pure-Intel.github.io</code></a> to get to this website. CybernetiX S3C main website can be found <a href="https://CybernetiX-S3C.net/"> here</a> and subscribe to my YouTube channel at <a href="https://youtube.com/CybernetiXS3C">CybernetiXS 3C</a>.</sub>
+	<sub>Just type <a href="https://Pure-Intel.github.io/"><code>Pure-Intel.github.io</code></a> to get to this website. CybernetiX S3C main website can be found <a href="https://CybernetiX-S3C.net/"> here</a> and subscribe to my YouTube channel at <a href="https://youtube.com/CybernetiXS3C">CybernetiX S3C</a>.</sub>
 </p>
 <br>
 
